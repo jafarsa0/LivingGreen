@@ -1,13 +1,24 @@
 p{
     font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+p.m{
+    font-size: 16px;
 }
 h1{
     text-align: center;
     color: darkviolet;
+    padding: 0px 0px 0px 0px;
+    margin-bottom: 30px;
 }
 h3{
     color: blueviolet;
+    padding: 20px 0px 0px 0px;
 }
-ol{
-  color: darkblue;
+ol.a{
+    color: darkblue;
+    list-style-type: decimal;
+    padding-left: 40px;
+    padding-bottom: 20px;
 }
